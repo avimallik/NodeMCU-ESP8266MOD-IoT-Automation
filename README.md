@@ -15,6 +15,12 @@ Integrates seamlessly with the **ARM Robolox/Enigma Robolox** Android applicatio
 - **REST-style endpoints**: Easily integrate with custom apps.
 
 ---
+## 📊 Algorithm
+![Dashboard](https://github.com/user-attachments/assets/ebd184e3-8ce1-4de3-b3a8-0c7739e8a898)
+---
+## 📷 Schematic
+![Dashboard](https://github.com/user-attachments/assets/2e68c3e2-d6f2-4d73-ab55-7830dd9b16cd)
+---
 
 ## 📶 Hardware & Pinout
 
